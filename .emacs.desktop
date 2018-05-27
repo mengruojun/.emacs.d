@@ -1,0 +1,139 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun May 27 02:23:18 2018
+;; Desktop file format version 208
+;; Emacs version 25.2.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23305 42518 325956 828000) (desktop . "208") "ruojunm@ruojunm-PC" nil nil ((((tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "#F5F5F5") (cursor-color . "#F5F5F5") (vertical-scroll-bars) (background-color . "#1B1E1C") (mouse-color . "#F5F5F5") (font . "tty") (height . 27) (width . 120) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "207F-4161-C797-50B2") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 46) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 6) (min-pixel-height . 4) (min-pixel-width . 46) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 6) (min-pixel-height-safe . 1) (min-pixel-width-safe . 6)) hc (pixel-width . 120) (pixel-height . 26) (total-width . 120) (total-height . 26) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 26) (pixel-height . 26) (total-width . 26) (total-height . 26) (normal-height . 1.0) (normal-width . 0.1262135922330097) (buffer " *NeoTree*" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated . t) (point . 103) (start . 1))) (hc (last . t) (pixel-width . 94) (pixel-height . 26) (total-width . 94) (total-height . 26) (normal-height . 1.0) (normal-width . 0.8737864077669903) (combination-limit . t) (leaf (pixel-width . 47) (pixel-height . 26) (total-width . 47) (total-height . 26) (normal-height . 1.0) (normal-width . 0.5) (buffer "magit: LearningPython" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 47) (pixel-height . 26) (total-width . 47) (total-height . 26) (normal-height . 1.0) (normal-width . 0.5) (buffer "README.md" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 61) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("find" "search" "hid" "refres" "create" "flake" "flymake" "80" "flymake" "python"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/PycharmProjects/LearningPython/data_strcture/SelectionSort.py" "~/PycharmProjects/LearningPython/data_strcture/InsertionSort.py" "~/PycharmProjects/LearningPython/data_strcture/SelectionSort.py" "~/PycharmProjects/LearningPython/data_strcture/SelectionSort" "~/PycharmProjects/LearningPython/" "Test" "~/PycharmProjects/LearningPython/tips" "~/PycharmProjects/LearningPython/.gitignore" "~/PycharmProjects/LearningPython/Test1" "~/PycharmProjects/LearningPython/Test" "~/PycharmProjects/LearningPython/data_strcture/emacsTips.org" "~/.emacs.d/init.el" "/home/ruojunm/PycharmProjects/LearningPython/Abc.py" "~/PycharmProjects/LearningPython/Test.py"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/ruojunm/PycharmProjects/LearningPython/README.md"
+  "README.md"
+  'markdown-mode
+  '(auto-revert-mode magit-file-mode)
+  61
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/ruojunm/PycharmProjects/LearningPython/data_strcture/SelectionSort.py"
+  "SelectionSort.py"
+  'python-mode
+  '(eldoc-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode auto-revert-mode magit-file-mode)
+  516
+  '(459 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (432 516 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/ruojunm/PycharmProjects/LearningPython/data_strcture/InsertionSort.py"
+  "InsertionSort.py"
+  'python-mode
+  '(eldoc-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode auto-revert-mode magit-file-mode)
+  390
+  '(371 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (340))))
+
+(desktop-create-buffer 208
+  "/home/ruojunm/PycharmProjects/LearningPython/tips/emacsTips.org"
+  "emacsTips.org"
+  'org-mode
+  '(auto-revert-mode magit-file-mode)
+  2915
+  '(2436 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t))
+  '((mark-ring (2994 2 2 2994 2994 2994 2994 2994 2994 2994 2994 2994))))
+
+(desktop-create-buffer 208
+  nil
+  "data_strcture"
+  'dired-mode
+  nil
+  332
+  '(nil nil)
+  t
+  '("/home/ruojunm/PycharmProjects/LearningPython/data_strcture/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/ruojunm/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-revert-mode magit-file-mode)
+  995
+  '(965 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (899 932 1119 716 814 814 1118 1097 1036 998 998 810 3818 3786 3587 3576))))
+
+(desktop-create-buffer 208
+  "/home/ruojunm/PycharmProjects/LearningPython/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  '(auto-revert-mode magit-file-mode)
+  14
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "LearningPython"
+  'dired-mode
+  nil
+  1
+  '(nil nil)
+  t
+  '("/home/ruojunm/PycharmProjects/LearningPython/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "tips"
+  'dired-mode
+  nil
+  255
+  '(nil nil)
+  t
+  '("/home/ruojunm/PycharmProjects/LearningPython/tips/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/share/emacs/25.2/etc/COPYING"
+  "COPYING"
+  'fundamental-mode
+  '(view-mode goto-address-mode)
+  302
+  '(302 nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
